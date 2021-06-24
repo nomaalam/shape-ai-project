@@ -1,7 +1,0 @@
--------------------------------------------------------------
-Weather Stats for - ALLAHABAD  || 22 Jun 2021 | 08:11:04 PM
--------------------------------------------------------------
-Current temperature is: 33.66 deg C
-Current weather desc  : moderate rain
-Current Humidity      : 54 %
-Current wind speed    : 1.91 kmph
